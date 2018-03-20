@@ -10,9 +10,9 @@ class Config:
     １．　本地仓库的的路径
     ２．　github中的仓库leetcode解法的路径
     """
-    local_path = '/C/Users/csyan/leetcode'
+    local_path = '/c/Users/csyan/git/leetcode'
     # solution of leetcode
-    github_leetcode_url = 'https://github.com/csyang79/leetcode'
+    github_leetcode_url = 'https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/'
 
     leetcode_url = 'https://leetcode.com/problems/'
 
