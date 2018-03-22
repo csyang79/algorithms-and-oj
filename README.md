@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-03-20 15:45:37, I have solved **1** / **718** problems while **133** are still locked.
+Until 2018-03-22 22:01:48, I have solved **2** / **718** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 1
+3. C++: 2
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -269,7 +269,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |272|[Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) |Hard|To Do|To Do|To Do|To Do|
-|274|[H-Index](https://leetcode.com/problems/h-index/description/) |Medium|To Do|To Do|To Do|To Do|
+|274|[H-Index](https://leetcode.com/problems/h-index/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/274.%20H-Index/274.H-Index.cpp)|To Do|
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |276|[Paint Fence](https://leetcode.com/problems/paint-fence/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
