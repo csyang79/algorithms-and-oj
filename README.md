@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-03-23 22:47:53, I have solved **4** / **718** problems while **133** are still locked.
+Until 2018-03-23 22:49:52, I have solved **4** / **718** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 2
+3. C++: 4
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -270,10 +270,10 @@ Note: :lock: means you need to buy a book from LeetCode
 |272|[Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) |Hard|To Do|To Do|To Do|To Do|
 |274|[H-Index](https://leetcode.com/problems/h-index/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/274.%20H-Index/274.H-Index.cpp)|To Do|
-|275|[H-Index II](https://leetcode.com/problems/h-index-ii/description/) |Medium|To Do|To Do|To Do|To Do|
+|275|[H-Index II](https://leetcode.com/problems/h-index-ii/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/275.%20H-Index%20II/275.H-Index_II.cpp)|To Do|
 |276|[Paint Fence](https://leetcode.com/problems/paint-fence/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
-|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/) |Easy|To Do|To Do|To Do|To Do|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/278.%20First%20Bad%20Version/278.First_Bad_Version.cpp)|To Do|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) |Medium|To Do|To Do|To Do|To Do|
 |280|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |281|[Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
