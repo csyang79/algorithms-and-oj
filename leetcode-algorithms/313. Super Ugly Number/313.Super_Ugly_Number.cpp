@@ -8,8 +8,7 @@ public:
         {
             min_val = INT_MAX;
             for (int i = 0; i < primes.size(); ++i)
-                if (ugly[exp[i]] * primes[i] < min_val)
-                    min_val = ugly[exp[i]] * primes[i];
+                    min_val = std::min(min_val, ugly[exp[i]] * primes[i]);
             ugly[count] = min_val;
             for (int i = 0; i < exp.size(); ++i)
                 if (ugly[count] == ugly[exp[i]] * primes[i])
