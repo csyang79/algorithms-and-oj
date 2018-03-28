@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-03-28 14:58:55, I have solved **29** / **722** problems while **133** are still locked.
+Until 2018-03-28 15:46:18, I have solved **30** / **722** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 29
+3. C++: 30
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -367,7 +367,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |369|[Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |370|[Range Addition](https://leetcode.com/problems/range-addition/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/371.%20Sum%20of%20Two%20Integers/371.SumOfTwoIntegers.cpp)|To Do|
-|372|[Super Pow](https://leetcode.com/problems/super-pow/description/) |Medium|To Do|To Do|To Do|To Do|
+|372|[Super Pow](https://leetcode.com/problems/super-pow/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/372.%20Super%20Pow/372.SuperPow.cpp)|To Do|
 |373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/) |Medium|To Do|To Do|To Do|To Do|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) |Easy|To Do|To Do|To Do|To Do|
 |375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/description/) |Medium|To Do|To Do|To Do|To Do|
