@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-03-28 11:22:14, I have solved **24** / **722** problems while **133** are still locked.
+Until 2018-03-28 11:37:54, I have solved **25** / **722** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 24
+3. C++: 25
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -352,7 +352,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/) |Hard|To Do|To Do|To Do|To Do|
 |355|[Design Twitter](https://leetcode.com/problems/design-twitter/description/) |Medium|To Do|To Do|To Do|To Do|
 |356|[Line Reflection](https://leetcode.com/problems/line-reflection/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
-|357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/description/) |Medium|To Do|To Do|To Do|To Do|
+|357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/357.%20Count%20Numbers%20with%20Unique%20Digits/357.CountNumbersWithUniqueDigits.cpp)|To Do|
 |358|[Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |360|[Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
