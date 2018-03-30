@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-03-30 10:42:51, I have solved **33** / **722** problems while **133** are still locked.
+Until 2018-03-30 11:37:44, I have solved **34** / **722** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 33
+3. C++: 34
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -373,7 +373,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/375.%20Guess%20Number%20Higher%20or%20Lower%20II/375.GuessNumberHigherOrLowerII.cpp)|To Do|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/376.%20Wiggle%20Subsequence/376.WiggleSbusequence.cpp)|To Do|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/) |Medium|To Do|To Do|To Do|To Do|
-|378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) |Medium|To Do|To Do|To Do|To Do|
+|378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix/378.KthSmallestElementInASortedMatrix.cpp)|To Do|
 |379|[Design Phone Directory](https://leetcode.com/problems/design-phone-directory/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) |Medium|To Do|To Do|To Do|To Do|
 |381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/) |Hard|To Do|To Do|To Do|To Do|
