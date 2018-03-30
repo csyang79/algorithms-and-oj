@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-03-29 22:33:10, I have solved **31** / **722** problems while **133** are still locked.
+Until 2018-03-30 10:05:10, I have solved **32** / **722** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 31
+3. C++: 32
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -370,7 +370,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |372|[Super Pow](https://leetcode.com/problems/super-pow/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/372.%20Super%20Pow/372.SuperPow.cpp)|To Do|
 |373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/) |Medium|To Do|To Do|To Do|To Do|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/374.%20Guess%20Number%20Higher%20or%20Lower/374.GuessNumberHigherOrLower.cpp)|To Do|
-|375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/description/) |Medium|To Do|To Do|To Do|To Do|
+|375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/375.%20Guess%20Number%20Higher%20or%20Lower%20II/375.GuessNumberHigherOrLowerII.cpp)|To Do|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/description/) |Medium|To Do|To Do|To Do|To Do|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/) |Medium|To Do|To Do|To Do|To Do|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) |Medium|To Do|To Do|To Do|To Do|
