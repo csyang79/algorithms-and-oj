@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-03-30 14:29:30, I have solved **35** / **722** problems while **133** are still locked.
+Until 2018-03-30 16:19:59, I have solved **36** / **722** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 35
+3. C++: 36
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -376,7 +376,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix/378.KthSmallestElementInASortedMatrix.cpp)|To Do|
 |379|[Design Phone Directory](https://leetcode.com/problems/design-phone-directory/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/380.%20Insert%20Delete%20GetRandom%20O(1)/380.InsertDeleteGetRandomO1.cpp)|To Do|
-|381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/) |Hard|To Do|To Do|To Do|To Do|
+|381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/) |Hard|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/381.%20Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed/381.cpp)|To Do|
 |382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/description/) |Medium|To Do|To Do|To Do|To Do|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/) |Easy|To Do|To Do|To Do|To Do|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) |Medium|To Do|To Do|To Do|To Do|
