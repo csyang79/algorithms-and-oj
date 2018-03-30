@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-03-30 16:19:59, I have solved **36** / **722** problems while **133** are still locked.
+Until 2018-03-30 23:22:04, I have solved **41** / **722** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 36
+3. C++: 41
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -377,12 +377,12 @@ Note: :lock: means you need to buy a book from LeetCode
 |379|[Design Phone Directory](https://leetcode.com/problems/design-phone-directory/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/380.%20Insert%20Delete%20GetRandom%20O(1)/380.InsertDeleteGetRandomO1.cpp)|To Do|
 |381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/) |Hard|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/381.%20Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed/381.cpp)|To Do|
-|382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/description/) |Medium|To Do|To Do|To Do|To Do|
-|383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/) |Easy|To Do|To Do|To Do|To Do|
-|384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) |Medium|To Do|To Do|To Do|To Do|
+|382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/382.%20Linked%20List%20Random%20Node/382.LinkedListRandomNode.cpp)|To Do|
+|383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/383.%20Ransom%20Note/383.RansomNote.cpp)|To Do|
+|384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/384.%20Shuffle%20an%20Array/384.ShuffleAnArray.cpp)|To Do|
 |385|[Mini Parser](https://leetcode.com/problems/mini-parser/description/) |Medium|To Do|To Do|To Do|To Do|
-|386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/) |Medium|To Do|To Do|To Do|To Do|
-|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) |Easy|To Do|To Do|To Do|To Do|
+|386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/386.%20Lexicographical%20Numbers/386.LexicographicalNumbers.cpp)|To Do|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/387.%20First%20Unique%20Character%20in%20a%20String/387.FisrtUniuqeCharacterInAString.cpp)|To Do|
 |388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/) |Medium|To Do|To Do|To Do|To Do|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/) |Easy|To Do|To Do|To Do|To Do|
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/description/) |Medium|To Do|To Do|To Do|To Do|
