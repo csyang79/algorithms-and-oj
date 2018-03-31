@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-03-31 18:14:25, I have solved **46** / **722** problems while **133** are still locked.
+Until 2018-03-31 18:47:39, I have solved **47** / **722** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 46
+3. C++: 47
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -393,7 +393,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/) |Medium|To Do|To Do|To Do|To Do|
 |396|[Rotate Function](https://leetcode.com/problems/rotate-function/description/) |Medium|To Do|To Do|To Do|To Do|
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/description/) |Medium|To Do|To Do|To Do|To Do|
-|398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/description/) |Medium|To Do|To Do|To Do|To Do|
+|398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/398.%20Random%20Pick%20Index/398.RandomPickIndex.cpp)|To Do|
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/description/) |Medium|To Do|To Do|To Do|To Do|
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/description/) |Easy|To Do|To Do|To Do|To Do|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/description/) |Easy|To Do|To Do|To Do|To Do|
