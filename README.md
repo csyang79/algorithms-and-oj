@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-03-31 18:47:39, I have solved **47** / **722** problems while **133** are still locked.
+Until 2018-03-31 21:46:37, I have solved **48** / **722** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 47
+3. C++: 48
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -391,7 +391,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/393.%20UTF-8%20Validation/393.UTF-8Validation.cpp)|To Do|
 |394|[Decode String](https://leetcode.com/problems/decode-string/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/394.%20Decode%20String/394.DecodeString.cpp)|To Do|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/) |Medium|To Do|To Do|To Do|To Do|
-|396|[Rotate Function](https://leetcode.com/problems/rotate-function/description/) |Medium|To Do|To Do|To Do|To Do|
+|396|[Rotate Function](https://leetcode.com/problems/rotate-function/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/396.%20Rotate%20Function/396.RotateFunction.cpp)|To Do|
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/description/) |Medium|To Do|To Do|To Do|To Do|
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/398.%20Random%20Pick%20Index/398.RandomPickIndex.cpp)|To Do|
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/description/) |Medium|To Do|To Do|To Do|To Do|
