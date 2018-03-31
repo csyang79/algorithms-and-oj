@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-03-31 22:33:02, I have solved **49** / **722** problems while **133** are still locked.
+Until 2018-03-31 23:07:20, I have solved **50** / **722** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 49
+3. C++: 50
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -395,7 +395,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/397.%20Integer%20Replacement/397.IntegerReplacement.cpp)|To Do|
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/398.%20Random%20Pick%20Index/398.RandomPickIndex.cpp)|To Do|
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/description/) |Medium|To Do|To Do|To Do|To Do|
-|400|[Nth Digit](https://leetcode.com/problems/nth-digit/description/) |Easy|To Do|To Do|To Do|To Do|
+|400|[Nth Digit](https://leetcode.com/problems/nth-digit/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/400.%20Nth%20Digit/400.NthDigit.cpp)|To Do|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/description/) |Easy|To Do|To Do|To Do|To Do|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/) |Medium|To Do|To Do|To Do|To Do|
 |403|[Frog Jump](https://leetcode.com/problems/frog-jump/description/) |Hard|To Do|To Do|To Do|To Do|
