@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-03-30 23:22:04, I have solved **41** / **722** problems while **133** are still locked.
+Until 2018-03-31 15:42:12, I have solved **42** / **722** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 41
+3. C++: 42
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -384,7 +384,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/386.%20Lexicographical%20Numbers/386.LexicographicalNumbers.cpp)|To Do|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/387.%20First%20Unique%20Character%20in%20a%20String/387.FisrtUniuqeCharacterInAString.cpp)|To Do|
 |388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/) |Medium|To Do|To Do|To Do|To Do|
-|389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/) |Easy|To Do|To Do|To Do|To Do|
+|389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/389.%20Find%20the%20Difference/389.FindTheDifference.cpp)|To Do|
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/description/) |Medium|To Do|To Do|To Do|To Do|
 |391|[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/description/) |Hard|To Do|To Do|To Do|To Do|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) |Medium|To Do|To Do|To Do|To Do|
