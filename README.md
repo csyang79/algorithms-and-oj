@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-04-01 11:40:33, I have solved **53** / **726** problems while **133** are still locked.
+Until 2018-04-01 14:02:02, I have solved **54** / **726** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 53
+3. C++: 54
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -738,4 +738,4 @@ Note: :lock: means you need to buy a book from LeetCode
 |808|[Soup Servings](https://leetcode.com/problems/soup-servings/description/) |Medium|To Do|To Do|To Do|To Do|
 |809|[Expressive Words](https://leetcode.com/problems/expressive-words/description/) |Medium|To Do|To Do|To Do|To Do|
 |810|[Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/description/) |Hard|To Do|To Do|To Do|To Do|
-|811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) |Easy|To Do|To Do|To Do|To Do|
+|811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/811.%20Subdomain%20Visit%20Count/811.SubdomainVisitCount.cpp)|To Do|
