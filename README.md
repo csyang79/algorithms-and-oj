@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-04-01 10:56:14, I have solved **51** / **722** problems while **133** are still locked.
+Until 2018-04-01 11:17:54, I have solved **52** / **726** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 51
+3. C++: 52
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -397,7 +397,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/description/) |Medium|To Do|To Do|To Do|To Do|
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/400.%20Nth%20Digit/400.NthDigit.cpp)|To Do|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/401.%20Binary%20Watch/401.BinaryWatch.cpp)|To Do|
-|402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/) |Medium|To Do|To Do|To Do|To Do|
+|402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/402.%20Remove%20K%20Digits/402.RemoveKDigits.cpp)|To Do|
 |403|[Frog Jump](https://leetcode.com/problems/frog-jump/description/) |Hard|To Do|To Do|To Do|To Do|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/) |Easy|To Do|To Do|To Do|To Do|
 |405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -735,3 +735,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |805|[Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/description/) |Hard|To Do|To Do|To Do|To Do|
 |806|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) |Easy|To Do|To Do|To Do|To Do|
 |807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/) |Medium|To Do|To Do|To Do|To Do|
+|808|[Soup Servings](https://leetcode.com/problems/soup-servings/description/) |Medium|To Do|To Do|To Do|To Do|
+|809|[Expressive Words](https://leetcode.com/problems/expressive-words/description/) |Medium|To Do|To Do|To Do|To Do|
+|810|[Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/description/) |Hard|To Do|To Do|To Do|To Do|
+|811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) |Easy|To Do|To Do|To Do|To Do|
