@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-04-01 11:17:54, I have solved **52** / **726** problems while **133** are still locked.
+Until 2018-04-01 11:40:33, I have solved **53** / **726** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 52
+3. C++: 53
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -399,7 +399,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/401.%20Binary%20Watch/401.BinaryWatch.cpp)|To Do|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/402.%20Remove%20K%20Digits/402.RemoveKDigits.cpp)|To Do|
 |403|[Frog Jump](https://leetcode.com/problems/frog-jump/description/) |Hard|To Do|To Do|To Do|To Do|
-|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/) |Easy|To Do|To Do|To Do|To Do|
+|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/404.%20Sum%20of%20Left%20Leaves/404.SumOfLeftLeaves.cpp)|To Do|
 |405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/) |Easy|To Do|To Do|To Do|To Do|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/) |Medium|To Do|To Do|To Do|To Do|
 |407|[Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/description/) |Hard|To Do|To Do|To Do|To Do|
