@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-04-01 14:51:21, I have solved **55** / **726** problems while **133** are still locked.
+Until 2018-04-02 11:45:23, I have solved **58** / **726** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 55
+3. C++: 58
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -401,13 +401,13 @@ Note: :lock: means you need to buy a book from LeetCode
 |403|[Frog Jump](https://leetcode.com/problems/frog-jump/description/) |Hard|To Do|To Do|To Do|To Do|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/404.%20Sum%20of%20Left%20Leaves/404.SumOfLeftLeaves.cpp)|To Do|
 |405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/405.%20Convert%20a%20Number%20to%20Hexadecimal/405.ConvertANumberToHexadecimal.cpp)|To Do|
-|406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/) |Medium|To Do|To Do|To Do|To Do|
+|406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/406.%20Queue%20Reconstruction%20by%20Height/406.QueueReconstructionByHeight.cpp)|To Do|
 |407|[Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |408|[Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
-|409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) |Easy|To Do|To Do|To Do|To Do|
+|409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/409.%20Longest%20Palindrome/409.LongestPalindrome.cpp)|To Do|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/) |Hard|To Do|To Do|To Do|To Do|
 |411|[Minimum Unique Word Abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
-|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) |Easy|To Do|To Do|To Do|To Do|
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/412.%20Fizz%20Buzz/412.FizzBuzz.cpp)|To Do|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/) |Medium|To Do|To Do|To Do|To Do|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) |Easy|To Do|To Do|To Do|To Do|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/description/) |Easy|To Do|To Do|To Do|To Do|
