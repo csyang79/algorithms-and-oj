@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-04-04 10:07:59, I have solved **62** / **726** problems while **133** are still locked.
+Until 2018-04-10 14:06:48, I have solved **64** / **730** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 62
+3. C++: 64
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -408,8 +408,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/) |Hard|To Do|To Do|To Do|To Do|
 |411|[Minimum Unique Word Abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/412.%20Fizz%20Buzz/412.FizzBuzz.cpp)|To Do|
-|413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/) |Medium|To Do|To Do|To Do|To Do|
-|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) |Easy|To Do|To Do|To Do|To Do|
+|413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/413.%20Arithmetic%20Slices/413.ArithmeticSlices.cpp)|To Do|
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/414.%20Third%20Maximum%20Number/414.ThirdMaximymNumber.cpp)|To Do|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/415.%20Add%20Strings/415.AddStrings.cpp)|To Do|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) |Medium|To Do|To Do|To Do|To Do|
 |417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -739,3 +739,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |809|[Expressive Words](https://leetcode.com/problems/expressive-words/description/) |Medium|To Do|To Do|To Do|To Do|
 |810|[Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/description/) |Hard|To Do|To Do|To Do|To Do|
 |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/811.%20Subdomain%20Visit%20Count/811.SubdomainVisitCount.cpp)|To Do|
+|812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/) |Easy|To Do|To Do|To Do|To Do|
+|813|[Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/description/) |Medium|To Do|To Do|To Do|To Do|
+|814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/) |Medium|To Do|To Do|To Do|To Do|
+|815|[Bus Routes](https://leetcode.com/problems/bus-routes/description/) |Hard|To Do|To Do|To Do|To Do|
