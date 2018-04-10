@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-04-10 22:08:57, I have solved **67** / **730** problems while **133** are still locked.
+Until 2018-04-10 22:59:06, I have solved **68** / **730** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 67
+3. C++: 68
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -416,7 +416,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |418|[Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/419.%20Battleships%20in%20a%20Board/419.BattleshipsInABoard.cpp)|To Do|
 |420|[Strong Password Checker](https://leetcode.com/problems/strong-password-checker/description/) |Hard|To Do|To Do|To Do|To Do|
-|421|[Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/description/) |Medium|To Do|To Do|To Do|To Do|
+|421|[Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array/421.MaximumXOROfTwoNumbersInAnArray.cpp)|To Do|
 |422|[Valid Word Square](https://leetcode.com/problems/valid-word-square/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |423|[Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/description/) |Medium|To Do|To Do|To Do|To Do|
 |424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) |Medium|To Do|To Do|To Do|To Do|
