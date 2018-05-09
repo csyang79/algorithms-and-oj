@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-04-12 21:37:33, I have solved **69** / **730** problems while **133** are still locked.
+Until 2018-05-09 17:11:43, I have solved **70** / **746** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 69
+3. C++: 71
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -158,7 +158,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/description/) |Medium|To Do|To Do|To Do|To Do|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) |Medium|To Do|To Do|To Do|To Do|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) |Hard|To Do|To Do|To Do|To Do|
-|146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/) |Hard|To Do|To Do|To Do|To Do|
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/) |Hard|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/146.%20LRU%20Cache/test.cpp)|To Do|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) |Medium|To Do|To Do|To Do|To Do|
 |148|[Sort List](https://leetcode.com/problems/sort-list/description/) |Medium|To Do|To Do|To Do|To Do|
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -743,3 +743,19 @@ Note: :lock: means you need to buy a book from LeetCode
 |813|[Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/description/) |Medium|To Do|To Do|To Do|To Do|
 |814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/) |Medium|To Do|To Do|To Do|To Do|
 |815|[Bus Routes](https://leetcode.com/problems/bus-routes/description/) |Hard|To Do|To Do|To Do|To Do|
+|816|[Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/description/) |Medium|To Do|To Do|To Do|To Do|
+|817|[Linked List Components](https://leetcode.com/problems/linked-list-components/description/) |Medium|To Do|To Do|To Do|To Do|
+|818|[Race Car](https://leetcode.com/problems/race-car/description/) |Hard|To Do|To Do|To Do|To Do|
+|819|[Most Common Word](https://leetcode.com/problems/most-common-word/description/) |Easy|To Do|To Do|To Do|To Do|
+|820|[Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/description/) |Medium|To Do|To Do|To Do|To Do|
+|821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/description/) |Easy|To Do|To Do|To Do|To Do|
+|822|[Card Flipping Game](https://leetcode.com/problems/card-flipping-game/description/) |Medium|To Do|To Do|To Do|To Do|
+|823|[Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/description/) |Medium|To Do|To Do|To Do|To Do|
+|824|[Goat Latin](https://leetcode.com/problems/goat-latin/description/) |Easy|To Do|To Do|To Do|To Do|
+|825|[Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/description/) |Medium|To Do|To Do|To Do|To Do|
+|826|[Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/description/) |Medium|To Do|To Do|To Do|To Do|
+|827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/description/) |Hard|To Do|To Do|To Do|To Do|
+|828|[Unique Letter String](https://leetcode.com/problems/unique-letter-string/description/) |Hard|To Do|To Do|To Do|To Do|
+|829|[Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/description/) |Medium|To Do|To Do|To Do|To Do|
+|830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/description/) |Easy|To Do|To Do|To Do|To Do|
+|831|[Masking Personal Information](https://leetcode.com/problems/masking-personal-information/description/) |Medium|To Do|To Do|To Do|To Do|
