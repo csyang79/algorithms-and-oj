@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-05-26 21:21:04, I have solved **77** / **754** problems while **133** are still locked.
+Until 2018-07-04 20:46:52, I have solved **80** / **779** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 78
+3. C++: 81
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -17,9 +17,9 @@ Note: :lock: means you need to buy a book from LeetCode
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/002.%20Add%20Two%20Numbers/2.addTwoNumbers.cpp)|To Do|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/003.%20Longest%20Substring%20Without%20Repeating%20Characters/3.longstSubstringWithoutRepeatingCharacters.cpp)|To Do|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/004.%20Median%20of%20Two%20Sorted%20Arrays/MedianOfTwoSortedArrays.cpp)|To Do|
-|005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|To Do|To Do|
-|006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|To Do|To Do|To Do|To Do|
-|007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|To Do|To Do|To Do|To Do|
+|005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/005.%20Longest%20Palindromic%20Substring/longestPalindromicSubstring.cpp)|To Do|
+|006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/006.%20ZigZag%20Conversion/zigZagConversion.cpp)|To Do|
+|007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/007.%20Reverse%20Integer/reverseInterger.cpp)|To Do|
 |008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |Medium|To Do|To Do|To Do|To Do|
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) |Easy|To Do|To Do|To Do|To Do|
 |010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -767,3 +767,28 @@ Note: :lock: means you need to buy a book from LeetCode
 |837|[New 21 Game](https://leetcode.com/problems/new-21-game/description/) |Medium|To Do|To Do|To Do|To Do|
 |838|[Push Dominoes](https://leetcode.com/problems/push-dominoes/description/) |Medium|To Do|To Do|To Do|To Do|
 |839|[Similar String Groups](https://leetcode.com/problems/similar-string-groups/description/) |Hard|To Do|To Do|To Do|To Do|
+|840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/) |Easy|To Do|To Do|To Do|To Do|
+|841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/) |Medium|To Do|To Do|To Do|To Do|
+|842|[Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/description/) |Medium|To Do|To Do|To Do|To Do|
+|843|[Guess the Word](https://leetcode.com/problems/guess-the-word/description/) |Hard|To Do|To Do|To Do|To Do|
+|844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) |Easy|To Do|To Do|To Do|To Do|
+|845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/description/) |Medium|To Do|To Do|To Do|To Do|
+|846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/) |Medium|To Do|To Do|To Do|To Do|
+|847|[Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/) |Hard|To Do|To Do|To Do|To Do|
+|848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/description/) |Medium|To Do|To Do|To Do|To Do|
+|849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/) |Easy|To Do|To Do|To Do|To Do|
+|850|[Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/description/) |Hard|To Do|To Do|To Do|To Do|
+|851|[Loud and Rich](https://leetcode.com/problems/loud-and-rich/description/) |Medium|To Do|To Do|To Do|To Do|
+|852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) |Easy|To Do|To Do|To Do|To Do|
+|853|[Car Fleet](https://leetcode.com/problems/car-fleet/description/) |Medium|To Do|To Do|To Do|To Do|
+|854|[K-Similar Strings](https://leetcode.com/problems/k-similar-strings/description/) |Hard|To Do|To Do|To Do|To Do|
+|855|[Exam Room](https://leetcode.com/problems/exam-room/description/) |Medium|To Do|To Do|To Do|To Do|
+|856|[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/) |Medium|To Do|To Do|To Do|To Do|
+|857|[Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/) |Hard|To Do|To Do|To Do|To Do|
+|858|[Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) |Medium|To Do|To Do|To Do|To Do|
+|859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) |Easy|To Do|To Do|To Do|To Do|
+|860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/description/) |Easy|To Do|To Do|To Do|To Do|
+|861|[Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/) |Medium|To Do|To Do|To Do|To Do|
+|862|[Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/) |Hard|To Do|To Do|To Do|To Do|
+|863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/) |Medium|To Do|To Do|To Do|To Do|
+|864|[Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/description/) |Hard|To Do|To Do|To Do|To Do|
