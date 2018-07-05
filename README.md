@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-07-05 15:59:39, I have solved **92** / **779** problems while **133** are still locked.
+Until 2018-07-05 16:18:22, I have solved **93** / **779** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 93
+3. C++: 94
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -37,7 +37,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/022.%20Generate%20Parentheses/generateParentheses.cpp)|To Do|
 |023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |Hard|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/023.%20Merge%20k%20Sorted%20Lists/mergeKSortedLists.cpp)|To Do|
 |024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/024.%20Swap%20Nodes%20in%20Pairs/swapNodesInPairs.cpp)|To Do|
-|025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) |Hard|To Do|To Do|To Do|To Do|
+|025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) |Hard|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/025.%20Reverse%20Nodes%20in%20k-Group/reverseNodesInKGroup.cpp)|To Do|
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|To Do|To Do|To Do|To Do|
 |027|[Remove Element](https://leetcode.com/problems/remove-element/description/) |Easy|To Do|To Do|To Do|To Do|
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) |Easy|To Do|To Do|To Do|To Do|
