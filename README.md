@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-07-07 13:08:29, I have solved **110** / **779** problems while **133** are still locked.
+Until 2018-07-07 13:37:06, I have solved **112** / **779** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 111
+3. C++: 113
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -62,10 +62,10 @@ Note: :lock: means you need to buy a book from LeetCode
 |047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/047.%20Permutations%20II/permutationsII.cpp)|To Do|
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/048.%20Rotate%20Image/rotateImage.cpp)|To Do|
 |049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/049.%20Group%20Anagrams/groupAnagrams.cpp)|To Do|
-|050|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) |Medium|To Do|To Do|To Do|To Do|
+|050|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/050.%20Pow(x,%20n)/myPow.cpp)|To Do|
 |051|[N-Queens](https://leetcode.com/problems/n-queens/description/) |Hard|To Do|To Do|To Do|To Do|
 |052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) |Hard|To Do|To Do|To Do|To Do|
-|053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) |Easy|To Do|To Do|To Do|To Do|
+|053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/053.%20Maximum%20Subarray/maximumSubarray.cpp)|To Do|
 |054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) |Medium|To Do|To Do|To Do|To Do|
 |055|[Jump Game](https://leetcode.com/problems/jump-game/description/) |Medium|To Do|To Do|To Do|To Do|
 |056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) |Medium|To Do|To Do|To Do|To Do|
