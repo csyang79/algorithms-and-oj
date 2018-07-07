@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-07-07 13:58:16, I have solved **113** / **779** problems while **133** are still locked.
+Until 2018-07-07 14:08:08, I have solved **114** / **779** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 114
+3. C++: 115
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -67,7 +67,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/053.%20Maximum%20Subarray/maximumSubarray.cpp)|To Do|
 |054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/054.%20Spiral%20Matrix/spiralMatrix.cpp)|To Do|
-|055|[Jump Game](https://leetcode.com/problems/jump-game/description/) |Medium|To Do|To Do|To Do|To Do|
+|055|[Jump Game](https://leetcode.com/problems/jump-game/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/055.%20Jump%20Game/jumpGame.cpp)|To Do|
 |056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) |Medium|To Do|To Do|To Do|To Do|
 |057|[Insert Interval](https://leetcode.com/problems/insert-interval/description/) |Hard|To Do|To Do|To Do|To Do|
 |058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) |Easy|To Do|To Do|To Do|To Do|
