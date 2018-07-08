@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-07-08 15:20:17, I have solved **126** / **783** problems while **133** are still locked.
+Until 2018-07-08 15:55:49, I have solved **127** / **783** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 127
+3. C++: 128
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -85,7 +85,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/070.%20Climbing%20Stairs/climbingStairs.cpp)|To Do|
 |071|[Simplify Path](https://leetcode.com/problems/simplify-path/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/071.%20Simplify%20Path/simplifyPath.cpp)|To Do|
 |072|[Edit Distance](https://leetcode.com/problems/edit-distance/description/) |Hard|To Do|To Do|To Do|To Do|
-|073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) |Medium|To Do|To Do|To Do|To Do|
+|073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/073.%20Set%20Matrix%20Zeroes/setMatrixZeros.cpp)|To Do|
 |074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |Medium|To Do|To Do|To Do|To Do|
 |075|[Sort Colors](https://leetcode.com/problems/sort-colors/description/) |Medium|To Do|To Do|To Do|To Do|
 |076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) |Hard|To Do|To Do|To Do|To Do|
