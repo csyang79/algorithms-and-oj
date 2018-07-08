@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-07-08 17:07:44, I have solved **131** / **783** problems while **133** are still locked.
+Until 2018-07-08 19:51:21, I have solved **132** / **783** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 132
+3. C++: 133
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -91,7 +91,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) |Hard|To Do|To Do|To Do|To Do|
 |077|[Combinations](https://leetcode.com/problems/combinations/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/077.%20Combinations/combinations.cpp)|To Do|
 |078|[Subsets](https://leetcode.com/problems/subsets/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/078.%20Subsets/subsets.cpp)|To Do|
-|079|[Word Search](https://leetcode.com/problems/word-search/description/) |Medium|To Do|To Do|To Do|To Do|
+|079|[Word Search](https://leetcode.com/problems/word-search/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/079.%20Word%20Search/wordSearch.cpp)|To Do|
 |080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) |Medium|To Do|To Do|To Do|To Do|

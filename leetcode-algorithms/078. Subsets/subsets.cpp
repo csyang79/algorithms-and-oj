@@ -30,7 +30,7 @@ class Solution {
 			while (i < (1 << n))
 			{
 				cur.clear();
-				for (int j = 0; j < 32; ++j)
+				for (int j = 0; j < n; ++j)
 					if ((i >> j) & 1)
 						cur.push_back(nums[j]);
 				++i;
