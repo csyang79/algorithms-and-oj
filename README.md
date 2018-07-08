@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-07-08 16:07:37, I have solved **128** / **783** problems while **133** are still locked.
+Until 2018-07-08 16:31:12, I have solved **129** / **783** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 129
+3. C++: 130
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -87,7 +87,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |072|[Edit Distance](https://leetcode.com/problems/edit-distance/description/) |Hard|To Do|To Do|To Do|To Do|
 |073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/073.%20Set%20Matrix%20Zeroes/setMatrixZeros.cpp)|To Do|
 |074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/074.%20Search%20a%202D%20Matrix/searchA2DMatrix.cpp)|To Do|
-|075|[Sort Colors](https://leetcode.com/problems/sort-colors/description/) |Medium|To Do|To Do|To Do|To Do|
+|075|[Sort Colors](https://leetcode.com/problems/sort-colors/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/075.%20Sort%20Colors/sortColors.cpp)|To Do|
 |076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) |Hard|To Do|To Do|To Do|To Do|
 |077|[Combinations](https://leetcode.com/problems/combinations/description/) |Medium|To Do|To Do|To Do|To Do|
 |078|[Subsets](https://leetcode.com/problems/subsets/description/) |Medium|To Do|To Do|To Do|To Do|
