@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-07-08 20:38:30, I have solved **134** / **783** problems while **133** are still locked.
+Until 2018-07-08 21:06:40, I have solved **136** / **783** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 135
+3. C++: 137
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -94,8 +94,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |079|[Word Search](https://leetcode.com/problems/word-search/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/079.%20Word%20Search/wordSearch.cpp)|To Do|
 |080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/removeDuplicatesFromSortedArrayII.cpp)|To Do|
 |081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/081.%20Search%20in%20Rotated%20Sorted%20Array%20II/searchInRotatedSortedArrayII.cpp)|To Do|
-|082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) |Medium|To Do|To Do|To Do|To Do|
-|083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) |Easy|To Do|To Do|To Do|To Do|
+|082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/082.%20Remove%20Duplicates%20from%20Sorted%20List%20II/removeDuplicatesFromSortedListII.cpp)|To Do|
+|083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/083.%20Remove%20Duplicates%20from%20Sorted%20List/removeDuplicatesFromSortedList.cpp)|To Do|
 |084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) |Hard|To Do|To Do|To Do|To Do|
 |085|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/) |Hard|To Do|To Do|To Do|To Do|
 |086|[Partition List](https://leetcode.com/problems/partition-list/description/) |Medium|To Do|To Do|To Do|To Do|
