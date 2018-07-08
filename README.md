@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-07-08 21:41:08, I have solved **138** / **783** problems while **133** are still locked.
+Until 2018-07-08 21:56:04, I have solved **140** / **783** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 139
+3. C++: 141
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -101,8 +101,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |086|[Partition List](https://leetcode.com/problems/partition-list/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/086.%20Partition%20List/partationList.cpp)|To Do|
 |087|[Scramble String](https://leetcode.com/problems/scramble-string/description/) |Hard|To Do|To Do|To Do|To Do|
 |088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/088.%20Merge%20Sorted%20Array/mergeSortedArray.cpp)|To Do|
-|089|[Gray Code](https://leetcode.com/problems/gray-code/description/) |Medium|To Do|To Do|To Do|To Do|
-|090|[Subsets II](https://leetcode.com/problems/subsets-ii/description/) |Medium|To Do|To Do|To Do|To Do|
+|089|[Gray Code](https://leetcode.com/problems/gray-code/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/089.%20Gray%20Code/grayCode.cpp)|To Do|
+|090|[Subsets II](https://leetcode.com/problems/subsets-ii/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/090.%20Subsets%20II/subsetsII.cpp)|To Do|
 |091|[Decode Ways](https://leetcode.com/problems/decode-ways/description/) |Medium|To Do|To Do|To Do|To Do|
 |092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |093|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/) |Medium|To Do|To Do|To Do|To Do|
