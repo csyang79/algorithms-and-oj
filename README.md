@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-07-08 22:08:39, I have solved **141** / **783** problems while **133** are still locked.
+Until 2018-07-09 23:41:09, I have solved **142** / **783** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 142
+3. C++: 143
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -46,7 +46,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |031|[Next Permutation](https://leetcode.com/problems/next-permutation/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/031.%20Next%20Permutation/nextPermutation.cpp)|To Do|
 |032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) |Hard|To Do|To Do|To Do|To Do|
 |033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/033.%20Search%20in%20Rotated%20Sorted%20Array/searchInRotatedSortedArray.cpp)|To Do|
-|034|[Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/034.%20Search%20for%20a%20Range/searchForARange.cpp)|To Do|
+|034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/034.%20Search%20for%20a%20Range/searchForARange.cpp)|To Do|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/035.%20Search%20Insert%20Position/searchInsertPosition.cpp)|To Do|
 |036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/036.%20Valid%20Sudoku/validSudoku.cpp)|To Do|
 |037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -105,7 +105,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |090|[Subsets II](https://leetcode.com/problems/subsets-ii/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/090.%20Subsets%20II/subsetsII.cpp)|To Do|
 |091|[Decode Ways](https://leetcode.com/problems/decode-ways/description/) |Medium|To Do|To Do|To Do|To Do|
 |092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/092.%20Reverse%20Linked%20List%20II/reverseLinkedListII.cpp)|To Do|
-|093|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/) |Medium|To Do|To Do|To Do|To Do|
+|093|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/093.%20Restore%20IP%20Addresses/restorIPAddresses.cpp)|To Do|
 |094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/094.%20Binary%20Tree%20Inorder%20Traversal/94.BinaryTreeInorderTraversal.cpp)|To Do|
 |095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) |Medium|To Do|To Do|To Do|To Do|
