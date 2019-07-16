@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2019-07-17 00:57:42, I have solved **142** / **1055** problems while **165** are still locked.
+Until 2019-07-17 01:28:40, I have solved **143** / **1055** problems while **165** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 144
-4. Java: 1
+4. Java: 3
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -92,7 +92,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |077|[Combinations](https://leetcode.com/problems/combinations/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/077.%20Combinations/combinations.cpp)|To Do|
 |078|[Subsets](https://leetcode.com/problems/subsets/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/078.%20Subsets/subsets.cpp)|To Do|
 |079|[Word Search](https://leetcode.com/problems/word-search/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/079.%20Word%20Search/wordSearch.cpp)|To Do|
-|080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/removeDuplicatesFromSortedArrayII.cpp)|To Do|
+|080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/removeDuplicatesFromSortedArrayII.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/Solution.java)|
 |081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/081.%20Search%20in%20Rotated%20Sorted%20Array%20II/searchInRotatedSortedArrayII.cpp)|To Do|
 |082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/082.%20Remove%20Duplicates%20from%20Sorted%20List%20II/removeDuplicatesFromSortedListII.cpp)|To Do|
 |083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/083.%20Remove%20Duplicates%20from%20Sorted%20List/removeDuplicatesFromSortedList.cpp)|To Do|
@@ -140,7 +140,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) |Easy|To Do|To Do|To Do|To Do|
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/description/) |Medium|To Do|To Do|To Do|To Do|
-|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) |Hard|To Do|To Do|To Do|To Do|
+|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/128.%20Longest%20Consecutive%20Sequence/Solution.java)|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) |Medium|To Do|To Do|To Do|To Do|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/) |Medium|To Do|To Do|To Do|To Do|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/) |Medium|To Do|To Do|To Do|To Do|
