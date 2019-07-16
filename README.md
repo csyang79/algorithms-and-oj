@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2019-07-17 01:37:18, I have solved **143** / **1055** problems while **165** are still locked.
+Until 2019-07-17 02:03:01, I have solved **143** / **1055** problems while **165** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 144
-4. Java: 4
+4. Java: 5
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -27,7 +27,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |Medium|To Do|To Do|To Do|To Do|
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|To Do|To Do|To Do|To Do|
 |014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/014.%20Longest%20Common%20Prefix/longestCommonPrefix.cpp)|To Do|
-|015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/015.%203Sum/3sum.cpp)|To Do|
+|015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/015.%203Sum/3sum.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/015.%203Sum/Solutions.java)|
 |016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/016.%203Sum%20Closest/3sumClosest.cpp)|To Do|
 |017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|To Do|To Do|To Do|To Do|
 |018|[4Sum](https://leetcode.com/problems/4sum/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/018.%204Sum/4sum.cpp)|To Do|
