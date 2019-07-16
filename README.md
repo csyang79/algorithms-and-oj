@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2019-07-17 01:28:40, I have solved **143** / **1055** problems while **165** are still locked.
+Until 2019-07-17 01:37:18, I have solved **143** / **1055** problems while **165** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 144
-4. Java: 3
+4. Java: 4
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -13,7 +13,7 @@ Note: :lock: means you need to buy a book from LeetCode
 ## LeetCode Solution Table
 | ID | Title | Difficulty | JavaScript | Python | C++ | Java |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/001.%20Two%20Sum/twoSum.cpp)|To Do|
+|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/001.%20Two%20Sum/twoSum.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/001.%20Two%20Sum/Solution.java)|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/002.%20Add%20Two%20Numbers/2.addTwoNumbers.cpp)|To Do|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/003.%20Longest%20Substring%20Without%20Repeating%20Characters/3.longstSubstringWithoutRepeatingCharacters.cpp)|To Do|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/004.%20Median%20of%20Two%20Sorted%20Arrays/MedianOfTwoSortedArrays.cpp)|To Do|
