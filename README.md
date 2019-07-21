@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2019-07-22 00:44:59, I have solved **143** / **1059** problems while **165** are still locked.
+Until 2019-07-22 01:39:58, I have solved **143** / **1059** problems while **165** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 144
-4. Java: 7
+4. Java: 8
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -43,7 +43,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/028.%20Implement%20strStr()/implementStrstr.cpp)|To Do|
 |029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/029.%20Divide%20Two%20Integers/divideTwoIntegers.cpp)|To Do|
 |030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) |Hard|To Do|To Do|To Do|To Do|
-|031|[Next Permutation](https://leetcode.com/problems/next-permutation/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/031.%20Next%20Permutation/nextPermutation.cpp)|To Do|
+|031|[Next Permutation](https://leetcode.com/problems/next-permutation/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/031.%20Next%20Permutation/nextPermutation.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/031.%20Next%20Permutation/Solution.java)|
 |032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) |Hard|To Do|To Do|To Do|To Do|
 |033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/033.%20Search%20in%20Rotated%20Sorted%20Array/searchInRotatedSortedArray.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/033.%20Search%20in%20Rotated%20Sorted%20Array/Solution.java)|
 |034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/034.%20Search%20for%20a%20Range/searchForARange.cpp)|To Do|
