@@ -28,22 +28,4 @@ class Solution {
 		else
 			return nums1[start1 + jump1 - 1];
 	}
-	/*int findKth(int[] A, int ai,int[] B, int bi, int k )
-	  {
-	  if ( A.length - ai > B.length - bi )
-	  {
-	  return(findKth( B, bi, A, ai, k ) );
-	  }
-	  if ( A.length - ai == 0 )
-	  return(B[bi + k - 1]);
-	  if ( k == 1 )
-	  return(Math.min( A[ai], B[bi] ) );
-	  int k1 = Math.min( k / 2, A.length - ai ), k2 = k - k1;
-	  if ( A[ai + k1 - 1] < B[bi + k2 - 1] )
-	  return(findKth( A, ai + k1, B, bi, k - k1 ) );
-	  else if ( A[ai + k1 - 1] > B[bi + k2 - 1] )
-	  return(findKth( A, ai, B, bi + k2, k - k2 ) );
-	  else
-	  return(A[ai + k1 - 1]);
-	  }*/
 }
