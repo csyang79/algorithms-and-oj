@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2019-07-26 03:06:57, I have solved **143** / **1059** problems while **165** are still locked.
+Until 2019-07-27 01:40:46, I have solved **143** / **1059** problems while **165** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 144
-4. Java: 11
+4. Java: 13
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -54,7 +54,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/039.%20Combination%20Sum/combinationSum.cpp)|To Do|
 |040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/040.%20Combination%20Sum%20II/combinationSum.cpp)|To Do|
 |041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |Hard|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/041.%20First%20Missing%20Positive/firstMissingPositive.cpp)|To Do|
-|042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |Hard|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/042.%20Trapping%20Rain%20Water/042.TrappingRainWater.cpp)|To Do|
+|042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |Hard|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/042.%20Trapping%20Rain%20Water/042.TrappingRainWater.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/042.%20Trapping%20Rain%20Water/Solution.java)|
 |043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/043.%20Multiply%20Strings/multiplyStrings.cpp)|To Do|
 |044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) |Hard|To Do|To Do|To Do|To Do|
 |045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |Hard|To Do|To Do|To Do|To Do|
