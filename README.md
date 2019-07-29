@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2019-07-27 01:40:46, I have solved **143** / **1059** problems while **165** are still locked.
+Until 2019-07-30 01:48:43, I have solved **143** / **1067** problems while **169** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 144
-4. Java: 13
+4. Java: 14
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -60,7 +60,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |046|[Permutations](https://leetcode.com/problems/permutations/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/046.%20Permutations/permutations.cpp)|To Do|
 |047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/047.%20Permutations%20II/permutationsII.cpp)|To Do|
-|048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/048.%20Rotate%20Image/rotateImage.cpp)|To Do|
+|048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/048.%20Rotate%20Image/rotateImage.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/048.%20Rotate%20Image/Solution.java)|
 |049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/049.%20Group%20Anagrams/groupAnagrams.cpp)|To Do|
 |050|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/050.%20Pow(x,%20n)/myPow.cpp)|To Do|
 |051|[N-Queens](https://leetcode.com/problems/n-queens/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -1011,6 +1011,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1027|[Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/description/) |Medium|To Do|To Do|To Do|To Do|
 |1118|[Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |1119|[Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
+|1134|[Armstrong Number](https://leetcode.com/problems/armstrong-number/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |1120|[Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/) |Medium|To Do|To Do|To Do|To Do|
 |1028|[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -1018,7 +1019,10 @@ Note: :lock: means you need to buy a book from LeetCode
 |1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/description/) |Easy|To Do|To Do|To Do|To Do|
 |1031|[Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/description/) |Medium|To Do|To Do|To Do|To Do|
 |1032|[Stream of Characters](https://leetcode.com/problems/stream-of-characters/description/) |Hard|To Do|To Do|To Do|To Do|
+|1133|[Largest Unique Number](https://leetcode.com/problems/largest-unique-number/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |1102|[Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
+|1135|[Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
+|1136|[Parallel Courses](https://leetcode.com/problems/parallel-courses/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |1033|[Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/description/) |Easy|To Do|To Do|To Do|To Do|
 |1034|[Coloring A Border](https://leetcode.com/problems/coloring-a-border/description/) |Medium|To Do|To Do|To Do|To Do|
 |1035|[Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -1072,3 +1076,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1130|[Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description/) |Medium|To Do|To Do|To Do|To Do|
 |1129|[Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/description/) |Medium|To Do|To Do|To Do|To Do|
 |1131|[Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/description/) |Medium|To Do|To Do|To Do|To Do|
+|1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/) |Easy|To Do|To Do|To Do|To Do|
+|1138|[Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/description/) |Medium|To Do|To Do|To Do|To Do|
+|1139|[Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/description/) |Medium|To Do|To Do|To Do|To Do|
+|1140|[Stone Game II](https://leetcode.com/problems/stone-game-ii/description/) |Medium|To Do|To Do|To Do|To Do|
