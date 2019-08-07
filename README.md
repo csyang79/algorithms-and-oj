@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2019-08-08 01:21:54, I have solved **144** / **1072** problems while **169** are still locked.
+Until 2019-08-08 02:33:59, I have solved **144** / **1072** problems while **169** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 144
-4. Java: 20
+4. Java: 21
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -149,7 +149,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |134|[Gas Station](https://leetcode.com/problems/gas-station/description/) |Medium|To Do|To Do|To Do|To Do|
 |135|[Candy](https://leetcode.com/problems/candy/description/) |Hard|To Do|To Do|To Do|To Do|
 |136|[Single Number](https://leetcode.com/problems/single-number/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/136.%20Single%20Number/Solution.java)|
-|137|[Single Number II](https://leetcode.com/problems/single-number-ii/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/137.%20Single%20Number%20II/137.singleNumberII.cpp)|To Do|
+|137|[Single Number II](https://leetcode.com/problems/single-number-ii/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/137.%20Single%20Number%20II/137.singleNumberII.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/137.%20Single%20Number%20II/Solution.java)|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) |Medium|To Do|To Do|To Do|To Do|
 |139|[Word Break](https://leetcode.com/problems/word-break/description/) |Medium|To Do|To Do|To Do|To Do|
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/description/) |Hard|To Do|To Do|To Do|To Do|
