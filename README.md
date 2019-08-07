@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2019-08-08 02:33:59, I have solved **144** / **1072** problems while **169** are still locked.
+Until 2019-08-08 02:55:14, I have solved **145** / **1072** problems while **169** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 144
-4. Java: 21
+4. Java: 22
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -256,7 +256,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) |Easy|To Do|To Do|To Do|To Do|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/description/) |Easy|To Do|To Do|To Do|To Do|
 |259|[3Sum Smaller](https://leetcode.com/problems/3sum-smaller/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
-|260|[Single Number III](https://leetcode.com/problems/single-number-iii/description/) |Medium|To Do|To Do|To Do|To Do|
+|260|[Single Number III](https://leetcode.com/problems/single-number-iii/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/260.%20Single%20Number%20III/Solution.java)|
 |261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/263.%20Ugly%20Number/263.Ugly_Numbers.cpp)|To Do|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/264.%20Ugly%20Number%20II/264.Ugly_Number_II.cpp)|To Do|
