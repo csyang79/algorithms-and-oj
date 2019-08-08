@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2019-08-08 02:55:14, I have solved **145** / **1072** problems while **169** are still locked.
+Until 2019-08-09 00:53:11, I have solved **145** / **1072** problems while **169** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 144
-4. Java: 22
+4. Java: 24
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -14,7 +14,7 @@ Note: :lock: means you need to buy a book from LeetCode
 | ID | Title | Difficulty | JavaScript | Python | C++ | Java |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/001.%20Two%20Sum/twoSum.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/001.%20Two%20Sum/Solution.java)|
-|002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/002.%20Add%20Two%20Numbers/2.addTwoNumbers.cpp)|To Do|
+|002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/002.%20Add%20Two%20Numbers/2.addTwoNumbers.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/002.%20Add%20Two%20Numbers/Solution.java)|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/003.%20Longest%20Substring%20Without%20Repeating%20Characters/3.longstSubstringWithoutRepeatingCharacters.cpp)|To Do|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/004.%20Median%20of%20Two%20Sorted%20Arrays/MedianOfTwoSortedArrays.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/004.%20Median%20of%20Two%20Sorted%20Arrays/Solution.java)|
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/005.%20Longest%20Palindromic%20Substring/longestPalindromicSubstring.cpp)|To Do|
@@ -98,7 +98,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/083.%20Remove%20Duplicates%20from%20Sorted%20List/removeDuplicatesFromSortedList.cpp)|To Do|
 |084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) |Hard|To Do|To Do|To Do|To Do|
 |085|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/) |Hard|To Do|To Do|To Do|To Do|
-|086|[Partition List](https://leetcode.com/problems/partition-list/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/086.%20Partition%20List/partationList.cpp)|To Do|
+|086|[Partition List](https://leetcode.com/problems/partition-list/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/086.%20Partition%20List/partationList.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/086.%20Partition%20List/Solution.java)|
 |087|[Scramble String](https://leetcode.com/problems/scramble-string/description/) |Hard|To Do|To Do|To Do|To Do|
 |088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/088.%20Merge%20Sorted%20Array/mergeSortedArray.cpp)|To Do|
 |089|[Gray Code](https://leetcode.com/problems/gray-code/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/089.%20Gray%20Code/grayCode.cpp)|To Do|
@@ -387,7 +387,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/389.%20Find%20the%20Difference/389.FindTheDifference.cpp)|To Do|
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/390.%20Elimination%20Game/390.EliminationGame.cpp)|To Do|
 |391|[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/description/) |Hard|To Do|To Do|To Do|To Do|
-|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/392.%20Is%20Subsequence/392.IsSubsequence.cpp)|To Do|
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/392.%20Is%20Subsequence/392.IsSubsequence.cpp)|To Do|
 |393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/393.%20UTF-8%20Validation/393.UTF-8Validation.cpp)|To Do|
 |394|[Decode String](https://leetcode.com/problems/decode-string/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/394.%20Decode%20String/394.DecodeString.cpp)|To Do|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -395,7 +395,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/397.%20Integer%20Replacement/397.IntegerReplacement.cpp)|To Do|
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/398.%20Random%20Pick%20Index/398.RandomPickIndex.cpp)|To Do|
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/description/) |Medium|To Do|To Do|To Do|To Do|
-|400|[Nth Digit](https://leetcode.com/problems/nth-digit/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/400.%20Nth%20Digit/400.NthDigit.cpp)|To Do|
+|400|[Nth Digit](https://leetcode.com/problems/nth-digit/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/400.%20Nth%20Digit/400.NthDigit.cpp)|To Do|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/401.%20Binary%20Watch/401.BinaryWatch.cpp)|To Do|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/402.%20Remove%20K%20Digits/402.RemoveKDigits.cpp)|To Do|
 |403|[Frog Jump](https://leetcode.com/problems/frog-jump/description/) |Hard|To Do|To Do|To Do|To Do|
