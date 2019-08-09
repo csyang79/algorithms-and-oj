@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2019-08-09 23:45:08, I have solved **145** / **1072** problems while **169** are still locked.
+Until 2019-08-10 01:01:55, I have solved **145** / **1072** problems while **169** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 144
-4. Java: 27
+4. Java: 29
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -36,8 +36,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/021.%20Merge%20Two%20Sorted%20Lists/mergeTwoSortedLists.cpp)|To Do|
 |022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/022.%20Generate%20Parentheses/generateParentheses.cpp)|To Do|
 |023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |Hard|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/023.%20Merge%20k%20Sorted%20Lists/mergeKSortedLists.cpp)|To Do|
-|024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/024.%20Swap%20Nodes%20in%20Pairs/swapNodesInPairs.cpp)|To Do|
-|025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) |Hard|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/025.%20Reverse%20Nodes%20in%20k-Group/reverseNodesInKGroup.cpp)|To Do|
+|024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/024.%20Swap%20Nodes%20in%20Pairs/swapNodesInPairs.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/024.%20Swap%20Nodes%20in%20Pairs/Solution.java)|
+|025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) |Hard|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/025.%20Reverse%20Nodes%20in%20k-Group/reverseNodesInKGroup.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/025.%20Reverse%20Nodes%20in%20k-Group/Solution.java)|
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Array/removeDuplicatesFromSortedArray.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Array/Solution.java)|
 |027|[Remove Element](https://leetcode.com/problems/remove-element/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/027.%20Remove%20Element/removeElement.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/027.%20Remove%20Element/Solution.java)|
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/028.%20Implement%20strStr()/implementStrstr.cpp)|To Do|
