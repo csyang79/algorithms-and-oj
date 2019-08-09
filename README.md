@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2019-08-09 01:53:20, I have solved **145** / **1072** problems while **169** are still locked.
+Until 2019-08-09 23:32:27, I have solved **145** / **1072** problems while **169** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 144
-4. Java: 26
+4. Java: 27
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -73,7 +73,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/058.%20Length%20of%20Last%20Word/lengthOfLastWord.cpp)|To Do|
 |059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/059.%20Spiral%20Matrix%20II/spiralMatrixII.cpp)|To Do|
 |060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) |Medium|To Do|To Do|To Do|To Do|
-|061|[Rotate List](https://leetcode.com/problems/rotate-list/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/061.%20Rotate%20List/rotateList.cpp)|To Do|
+|061|[Rotate List](https://leetcode.com/problems/rotate-list/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/061.%20Rotate%20List/rotateList.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/061.%20Rotate%20List/Solution.java)|
 |062|[Unique Paths](https://leetcode.com/problems/unique-paths/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/062.%20Unique%20Paths/uniquePaths.cpp)|To Do|
 |063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/063.%20Unique%20Paths%20II/uniquePathsII.cpp)|To Do|
 |064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/064.%20Minimum%20Path%20Sum/minimumPathSum.cpp)|To Do|
