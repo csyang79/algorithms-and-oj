@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2019-08-20 02:36:50, I have solved **148** / **1084** problems while **173** are still locked.
+Until 2019-08-21 01:23:11, I have solved **148** / **1084** problems while **173** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 144
-4. Java: 33
+4. Java: 34
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -40,7 +40,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) |Hard|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/025.%20Reverse%20Nodes%20in%20k-Group/reverseNodesInKGroup.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/025.%20Reverse%20Nodes%20in%20k-Group/Solution.java)|
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Array/removeDuplicatesFromSortedArray.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Array/Solution.java)|
 |027|[Remove Element](https://leetcode.com/problems/remove-element/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/027.%20Remove%20Element/removeElement.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/027.%20Remove%20Element/Solution.java)|
-|028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/028.%20Implement%20strStr()/implementStrstr.cpp)|To Do|
+|028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/028.%20Implement%20strStr()/implementStrstr.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/028.%20Implement%20strStr()/Solution.java)|
 |029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/029.%20Divide%20Two%20Integers/divideTwoIntegers.cpp)|To Do|
 |030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) |Hard|To Do|To Do|To Do|To Do|
 |031|[Next Permutation](https://leetcode.com/problems/next-permutation/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/031.%20Next%20Permutation/nextPermutation.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/031.%20Next%20Permutation/Solution.java)|
