@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2019-08-21 01:23:11, I have solved **148** / **1084** problems while **173** are still locked.
+Until 2019-08-22 00:45:19, I have solved **148** / **1084** problems while **173** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 144
-4. Java: 34
+4. Java: 35
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -20,7 +20,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/005.%20Longest%20Palindromic%20Substring/longestPalindromicSubstring.cpp)|To Do|
 |006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/006.%20ZigZag%20Conversion/zigZagConversion.cpp)|To Do|
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/007.%20Reverse%20Integer/reverseInterger.cpp)|To Do|
-|008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/008.%20String%20to%20Integer%20(atoi)/stringToInterger.cpp)|To Do|
+|008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/008.%20String%20to%20Integer%20(atoi)/stringToInterger.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/008.%20String%20to%20Integer%20(atoi)/Solution.java)|
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/009.%20Palindrome%20Number/PalindromeNumber.cpp)|To Do|
 |010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |Hard|To Do|To Do|To Do|To Do|
 |011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/011.%20Container%20With%20Most%20Water/containerWithMostWater.cpp)|To Do|
