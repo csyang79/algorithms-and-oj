@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2019-08-22 00:45:19, I have solved **148** / **1084** problems while **173** are still locked.
+Until 2019-08-22 01:25:21, I have solved **148** / **1084** problems while **173** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 144
-4. Java: 35
+4. Java: 36
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -79,7 +79,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/064.%20Minimum%20Path%20Sum/minimumPathSum.cpp)|To Do|
 |065|[Valid Number](https://leetcode.com/problems/valid-number/description/) |Hard|To Do|To Do|To Do|To Do|
 |066|[Plus One](https://leetcode.com/problems/plus-one/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/066.%20Plus%20One/plusOne.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/066.%20Plus%20One/Solution.java)|
-|067|[Add Binary](https://leetcode.com/problems/add-binary/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/067.%20Add%20Binary/addBinary.cpp)|To Do|
+|067|[Add Binary](https://leetcode.com/problems/add-binary/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/067.%20Add%20Binary/addBinary.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/067.%20Add%20Binary/Solution.java)|
 |068|[Text Justification](https://leetcode.com/problems/text-justification/description/) |Hard|To Do|To Do|To Do|To Do|
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/069.%20Sqrt(x)/sqrtX.cpp)|To Do|
 |070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/070.%20Climbing%20Stairs/climbingStairs.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/070.%20Climbing%20Stairs/Solution.java)|
