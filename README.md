@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2019-08-24 00:26:06, I have solved **149** / **1084** problems while **173** are still locked.
+Until 2019-08-26 02:25:08, I have solved **150** / **1092** problems while **177** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 144
-4. Java: 39
+4. Java: 40
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -50,7 +50,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/035.%20Search%20Insert%20Position/searchInsertPosition.cpp)|To Do|
 |036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/036.%20Valid%20Sudoku/validSudoku.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/036.%20Valid%20Sudoku/Solution.java)|
 |037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) |Hard|To Do|To Do|To Do|To Do|
-|038|[Count and Say](https://leetcode.com/problems/count-and-say/description/) |Easy|To Do|To Do|To Do|To Do|
+|038|[Count and Say](https://leetcode.com/problems/count-and-say/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/038.%20Count%20and%20Say/Solution.java)|
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/039.%20Combination%20Sum/combinationSum.cpp)|To Do|
 |040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/040.%20Combination%20Sum%20II/combinationSum.cpp)|To Do|
 |041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |Hard|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/041.%20First%20Missing%20Positive/firstMissingPositive.cpp)|To Do|
@@ -1042,7 +1042,10 @@ Note: :lock: means you need to buy a book from LeetCode
 |1042|[Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/description/) |Easy|To Do|To Do|To Do|To Do|
 |1043|[Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/) |Medium|To Do|To Do|To Do|To Do|
 |1044|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/description/) |Hard|To Do|To Do|To Do|To Do|
+|1165|[Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |1153|[String Transforms Into Another String](https://leetcode.com/problems/string-transforms-into-another-string/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
+|1166|[Design File System](https://leetcode.com/problems/design-file-system/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
+|1167|[Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/) |Easy|To Do|To Do|To Do|To Do|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) |Easy|To Do|To Do|To Do|To Do|
 |1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -1052,6 +1055,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1052|[Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/description/) |Medium|To Do|To Do|To Do|To Do|
 |1053|[Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/description/) |Medium|To Do|To Do|To Do|To Do|
 |1054|[Distant Barcodes](https://leetcode.com/problems/distant-barcodes/description/) |Medium|To Do|To Do|To Do|To Do|
+|1168|[Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |1074|[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/) |Hard|To Do|To Do|To Do|To Do|
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/) |Easy|To Do|To Do|To Do|To Do|
 |1072|[Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -1097,3 +1101,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1156|[Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/description/) |Medium|To Do|To Do|To Do|To Do|
 |1157|[Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/description/) |Hard|To Do|To Do|To Do|To Do|
 |1155|[Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description/) |Medium|To Do|To Do|To Do|To Do|
+|1171|[Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description/) |Medium|To Do|To Do|To Do|To Do|
+|1172|[Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/description/) |Hard|To Do|To Do|To Do|To Do|
+|1169|[Invalid Transactions](https://leetcode.com/problems/invalid-transactions/description/) |Easy|To Do|To Do|To Do|To Do|
+|1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/description/) |Easy|To Do|To Do|To Do|To Do|
