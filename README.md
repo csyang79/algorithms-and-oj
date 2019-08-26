@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2019-08-26 02:25:08, I have solved **150** / **1092** problems while **177** are still locked.
+Until 2019-08-27 01:37:29, I have solved **150** / **1092** problems while **177** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 144
-4. Java: 40
+4. Java: 41
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -61,7 +61,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |046|[Permutations](https://leetcode.com/problems/permutations/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/046.%20Permutations/permutations.cpp)|To Do|
 |047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/047.%20Permutations%20II/permutationsII.cpp)|To Do|
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/048.%20Rotate%20Image/rotateImage.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/048.%20Rotate%20Image/Solution.java)|
-|049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/049.%20Group%20Anagrams/groupAnagrams.cpp)|To Do|
+|049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/049.%20Group%20Anagrams/groupAnagrams.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/049.%20Group%20Anagrams/Solution.java)|
 |050|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/050.%20Pow(x,%20n)/myPow.cpp)|To Do|
 |051|[N-Queens](https://leetcode.com/problems/n-queens/description/) |Hard|To Do|To Do|To Do|To Do|
 |052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) |Hard|To Do|To Do|To Do|To Do|
