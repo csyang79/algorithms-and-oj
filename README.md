@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2019-08-27 01:37:29, I have solved **150** / **1092** problems while **177** are still locked.
+Until 2019-08-27 01:44:29, I have solved **151** / **1092** problems while **177** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 144
-4. Java: 41
+4. Java: 42
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -238,7 +238,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) |Hard|To Do|To Do|To Do|To Do|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/) |Medium|To Do|To Do|To Do|To Do|
-|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) |Easy|To Do|To Do|To Do|To Do|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/242.%20Valid%20Anagram/Solution.java)|
 |243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
