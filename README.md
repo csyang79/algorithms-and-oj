@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2019-08-29 19:32:25, I have solved **153** / **1092** problems while **177** are still locked.
+Until 2019-08-29 20:53:15, I have solved **154** / **1092** problems while **177** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 144
-4. Java: 47
+4. Java: 48
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -156,7 +156,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/141.%20Linked%20List%20Cycle/Solution.java)|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/description/) |Medium|To Do|To Do|To Do|To Do|
-|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) |Medium|To Do|To Do|To Do|To Do|
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/144.%20Binary%20Tree%20Preorder%20Traversal/Solution.java)|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) |Hard|To Do|To Do|To Do|To Do|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/146.%20LRU%20Cache/test.cpp)|To Do|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) |Medium|To Do|To Do|To Do|To Do|
