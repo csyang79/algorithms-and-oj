@@ -1,17 +1,7 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode(int x) { val = x; }
- * }
- */
+// 邓俊辉
 class Solution {
 	public List<Integer> inorderTraversal(TreeNode root) {
 		List<Integer> list = new ArrayList<>();
-		if (root == null)
-			return list;
 		Stack<TreeNode> stack = new Stack<>();
 		while (root != null || !stack.empty()) {
 			if (root != null) {
