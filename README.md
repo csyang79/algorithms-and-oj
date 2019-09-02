@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2019-09-02 16:31:29, I have solved **158** / **1096** problems while **177** are still locked.
+Until 2019-09-02 16:49:07, I have solved **159** / **1096** problems while **177** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 148
-4. Java: 53
+3. C++: 149
+4. Java: 54
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -112,7 +112,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |097|[Interleaving String](https://leetcode.com/problems/interleaving-string/description/) |Hard|To Do|To Do|To Do|To Do|
 |098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) |Medium|To Do|To Do|To Do|To Do|
 |099|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/) |Hard|To Do|To Do|To Do|To Do|
-|100|[Same Tree](https://leetcode.com/problems/same-tree/description/) |Easy|To Do|To Do|To Do|To Do|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/description/) |Easy|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/100.%20Same%20Tree/sameTree.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/100.%20Same%20Tree/Solution.java)|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) |Easy|To Do|To Do|To Do|To Do|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/102.%20Binary%20Tree%20Level%20Order%20Traversal/binaryTreeLevelOrderTraversal.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/102.%20Binary%20Tree%20Level%20Order%20Traversal/Solution.java)|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/binaryTreeZigzagLevelOrderTraversal.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/Solution.java)|
