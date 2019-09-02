@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2019-09-02 17:24:11, I have solved **160** / **1096** problems while **177** are still locked.
+Until 2019-09-02 17:37:46, I have solved **161** / **1096** problems while **177** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 150
-4. Java: 55
+3. C++: 151
+4. Java: 56
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -126,7 +126,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) |Easy|To Do|To Do|To Do|To Do|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/description/) |Easy|To Do|To Do|To Do|To Do|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) |Medium|To Do|To Do|To Do|To Do|
-|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/) |Medium|To Do|To Do|To Do|To Do|
+|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List/flattenBinaryTreeToLinkedList.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List/Solution.java)|
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/) |Hard|To Do|To Do|To Do|To Do|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/) |Medium|To Do|To Do|To Do|To Do|
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/) |Medium|To Do|To Do|To Do|To Do|
