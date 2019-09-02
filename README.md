@@ -1,5 +1,5 @@
 # Keep thinking, keep alive
-Until 2019-09-02 10:02:26, I have solved **156** / **1096** problems while **177** are still locked.
+Until 2019-09-02 13:05:46, I have solved **156** / **1096** problems while **177** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
@@ -114,9 +114,9 @@ Note: :lock: means you need to buy a book from LeetCode
 |099|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/) |Hard|To Do|To Do|To Do|To Do|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/) |Easy|To Do|To Do|To Do|To Do|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) |Easy|To Do|To Do|To Do|To Do|
-|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) |Medium|To Do|To Do|To Do|To Do|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/102.%20Binary%20Tree%20Level%20Order%20Traversal/Solution.java)|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) |Medium|To Do|To Do|To Do|To Do|
-|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree/Solution.java)|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |Easy|To Do|To Do|To Do|To Do|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) |Medium|To Do|To Do|To Do|To Do|
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) |Medium|To Do|To Do|To Do|To Do|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) |Easy|To Do|To Do|To Do|To Do|
