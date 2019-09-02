@@ -1,32 +1,61 @@
+// solution1
 class Solution {
 	public List<List<Integer>> levelOrder(TreeNode root) {
-		List<List<Integer>> res = new ArrayList<>();
-		LinkedList<TreeNode> queue = new LinkedList<>();
+		List<List<Integer>> list = new ArrayList<>();
+		LinkedList<TreeNode> linkedList = new LinkedList<>();
 		if (root == null) {
-			return res;
+			return list;
 		}
-		queue.offer(root);
+		linkedList.addFirst(root);
 		int level = 0;
 		TreeNode last = root;
 		TreeNode cur;
-		res.add(new ArrayList<>());
-		while (!queue.isEmpty()) {
-			cur = queue.poll();
-			res.get(level).add(cur.val);
+		while (!linkedList.isEmpty()) {
+			if (level >= list.size()) {
+				list.add(new ArrayList<>());
+			}
+			cur = linkedList.removeFirst();
+			list.get(level).add(cur.val);
 			if (cur.left != null) {
-				queue.offer(cur.left);
+				linkedList.add(cur.left);
 			}
 			if (cur.right != null) {
-				queue.offer(cur.right);
+				linkedList.add(cur.right);
 			}
-			if (cur == last) {
+			if (last == cur) {
 				++level;
-				last = queue.peekLast();
-				if (!queue.isEmpty()) {
-					res.add(new ArrayList<>());
-				}
-			} 
+				last = linkedList.peekLast();
+			}
 		}
-		return res;
+		return list;
+	}
+}
+
+// solution2
+class Solution {
+	public List<List<Integer>> levelOrder(TreeNode root) {
+		List<List<Integer>> list = new ArrayList<>();
+		Queue<TreeNode> queue = new LinkedList<>();
+		if (root == null) {
+			return list;
+		}
+		queue.offer(root);
+		while (!queue.isEmpty()) {
+			TreeNode t;
+			List<Integer> level = new ArrayList<>();
+			int count = queue.size();
+			for (int i = 0; i < count; ++i) {
+				t = queue.poll();
+				level.add(t.val);
+				if (t.left != null) {
+					queue.offer(t.left);
+				}
+				if (t.right != null) {
+					queue.offer(t.right);
+				}
+			}
+			list.add(level);
+		}
+		return list;
 	}
 }
