@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2019-09-02 17:37:46, I have solved **161** / **1096** problems while **177** are still locked.
+Until 2019-09-05 22:06:23, I have solved **162** / **1096** problems while **177** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 151
+3. C++: 152
 4. Java: 56
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -108,7 +108,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |093|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/093.%20Restore%20IP%20Addresses/restorIPAddresses.cpp)|To Do|
 |094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/094.%20Binary%20Tree%20Inorder%20Traversal/binaryTreeInorderTraversal.cpp)|[Java](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/094.%20Binary%20Tree%20Inorder%20Traversal/Solution.java)|
 |095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) |Medium|To Do|To Do|To Do|To Do|
-|096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) |Medium|To Do|To Do|To Do|To Do|
+|096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) |Medium|To Do|To Do|[C++](https://github.com/csyang79/algorithms-and-oj/blob/master/leetcode-algorithms/096.%20Unique%20Binary%20Search%20Trees/uniqueBinarySearchTrees.cpp)|To Do|
 |097|[Interleaving String](https://leetcode.com/problems/interleaving-string/description/) |Hard|To Do|To Do|To Do|To Do|
 |098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) |Medium|To Do|To Do|To Do|To Do|
 |099|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -899,7 +899,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |934|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/description/) |Medium|To Do|To Do|To Do|To Do|
 |935|[Knight Dialer](https://leetcode.com/problems/knight-dialer/description/) |Medium|To Do|To Do|To Do|To Do|
 |936|[Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/description/) |Hard|To Do|To Do|To Do|To Do|
-|937|[Reorder Log Files](https://leetcode.com/problems/reorder-log-files/description/) |Easy|To Do|To Do|To Do|To Do|
+|937|[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/description/) |Easy|To Do|To Do|To Do|To Do|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/) |Easy|To Do|To Do|To Do|To Do|
 |939|[Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/description/) |Medium|To Do|To Do|To Do|To Do|
 |940|[Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/description/) |Hard|To Do|To Do|To Do|To Do|
